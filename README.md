@@ -308,6 +308,6 @@ PostgreSQL tourne en tâche de fond, en tant que service Windows.
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **François Dumele** ([Xodia](https://github.com/Xodia-stack))
