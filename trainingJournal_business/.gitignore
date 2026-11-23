@@ -1,0 +1,21 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (mots de passe !)
+.env
+.env.local
+.env.*.local
+
+# Build du front
+dist/
+build/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Fichiers système / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
