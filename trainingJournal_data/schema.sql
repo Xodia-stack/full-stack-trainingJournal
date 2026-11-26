@@ -31,7 +31,7 @@ CREATE TABLE workout_exercises (
 INSERT INTO exercises (name, muscle_group) VALUES
   ('Bench press', 'Chest'),
   ('Squat', 'Legs'),
-  ('Curl', 'Arms')
+  ('Curl', 'Arms'),
   ('Pull-up', 'Back');
 
 INSERT INTO workouts (workout_date, notes) VALUES
